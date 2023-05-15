@@ -1,0 +1,33 @@
+Dialog window->(Main Menu
+Menu->(This is menu
+Item Start
+Item Settings
+Item Levels
+Item Exit
+Submenu->(
+)
+)
+)
+
+Dialog window->(Settings
+Menu->(This is menu in settings
+Item BG is red
+Item BG is green
+Item BG is Black
+Submenu->(Settings submenu
+Item Main menu
+Item Levels
+)
+)
+)
+
+Dialog window->(Levels
+Menu->(Choose level
+Item Level 1
+Item Level 2
+Submenu->(Choose window
+Item Back to Main menu
+Item Settings
+)
+)
+)
